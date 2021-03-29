@@ -1,0 +1,16 @@
+
+Little remake of Commander Video running
+displayed in Command Prompt
+
+Technically 1k if taking away headers and imports
+
+Spent so long on trying to get program to draw sprite bits and make it 1.5kb, so I can't be bothered to draw rainbow to the end of the legs right now
+
+Estimated time to work on this in total is a few hours (wakatime reports 6-7 hours)
+
+Recommended:
+Set Properties -> Font to a 1:1 scale font if not set
+
+Written by donnaken15 / Wesley
+https://donnaken15.tk
+Redrawn sprites in YY-CHR
